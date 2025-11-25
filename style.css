@@ -196,3 +196,7 @@ p {
 .research-container ol.article-list li {
     margin-bottom: 0.5em;
 }
+
+h1 {
+  padding-left: 10px; /* Adds space inside the element before the text */
+}
